@@ -1,5 +1,5 @@
 # E-Commerce-Annual_Report-using-Excel
-Women are more likely to buy compared to men (~65%)\n
+Women are more likely to buy compared to men (~65%)
 Maharastra, Karnataka, Uttar Pradesh are top 3 states  (~35%)
 Mid aged group (35-49 yrs) is max contributing (~50%)
 Amazon, Flipkart, Myntra channels are maximum contributing (~80%)
